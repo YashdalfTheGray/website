@@ -3,7 +3,9 @@ import React from 'react';
 class WorkExperienceList extends React.Component {
     render() {
         return (
-            <div>Work Exerience</div>
+            <div>Work Experience</div>
         );
     }
 }
+
+export default WorkExperienceList;
